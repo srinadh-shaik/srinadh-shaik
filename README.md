@@ -9,4 +9,4 @@ I’m Srinadh Shaik, a student at **IIEST SHIBPUR** with a keen interest in **we
 
 ### How to Reach Me:  
 I’d love to connect and discuss ideas or opportunities!
-You can find me on [LinkedIn](https://www.linkedin.com/in/srinadh-shaik-742a81cd 282/).  
+You can find me on [LinkedIn](https://www.linkedin.com/in/srinadh-shaik-742a81cd282/).  
