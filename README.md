@@ -1,11 +1,16 @@
-# Hi there! 👋  
+# Hi there! 👋 I'm Srinadh Shaik
 
-I’m Srinadh Shaik, a student at **IIEST SHIBPUR** with a keen interest in **web development**. I enjoy creating intuitive and functional web applications and am always looking for ways to improve my skills.  
+B.Tech Electrical Engineering student at **IIEST Shibpur**, with a strong interest in **Web Development & AI/ML**. I enjoy building intuitive, functional software — sometimes with ML woven in, sometimes pure ML-based applications — and I'm always looking to sharpen my skills.
 
-### What I’m Currently Up 
-- Working on personal projects to sharpen my skills
-- Collaborating on medium projects with friends.
+### 🔭 What I'm Currently Up To
+- Building personal projects to explore new tools and concepts
+- Collaborating on medium-scale projects with friends
+- Diving deep into DSA and competitive programming
 
-### How to Reach Me:  
-I’d love to connect and discuss ideas or opportunities!
-You can find me on [LinkedIn](https://www.linkedin.com/in/srinadh-shaik-742a81282/).  
+### 🌱 Tech I Work With
+`React` `Next.js` `FastAPI` `PostgreSQL` `Java` `Python`  
+`CLIP` `Qdrant` (ML/embeddings — semantic search)
+
+### 📫 Let's Connect
+Always up for discussing ideas, collabs, or opportunities!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinadh-shaik-742a81282/)
