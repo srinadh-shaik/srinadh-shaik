@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Srinadh Shaik
 
-B.Tech Electrical Engineering student at **IIEST Shibpur**, with a strong interest in **Web Development & AI/ML**. I enjoy building intuitive, functional software — sometimes with ML woven in, sometimes pure ML-based applications — and I'm always looking to sharpen my skills.
+B.Tech Electrical Engineering student at **IIEST Shibpur**, with a strong interest in **Web Development & AI/ML**. I enjoy building intuitive, functional software, sometimes with ML in it, sometimes pure ML-based applications and I'm always looking to sharpen my skills.
 
 ### 🔭 What I'm Currently Up To
 - Building personal projects to explore new tools and concepts
