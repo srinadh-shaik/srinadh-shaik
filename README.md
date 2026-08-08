@@ -13,4 +13,4 @@ B.Tech Electrical Engineering student at **IIEST Shibpur**, with a strong intere
 
 ### 📫 Let's Connect
 Always up for discussing ideas, collabs, or opportunities!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinadh-shaik-742a81282/)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinadh-shaik-742a81282/)
